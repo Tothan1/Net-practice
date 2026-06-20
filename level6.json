@@ -1,0 +1,1 @@
+{"routes":{"Ar1":{"route":"default","gate":"95.133.28.228"},"Rr1":{"route":"default"},"Ir1":{"route":"95.133.28.0/20"}},"ifs":{"A1":{"mask":"/28"},"R1":{"ip":"95.133.28.228"},"R2":{},"S1":{},"Somewhere on the Net":{},"I1":{}}}
